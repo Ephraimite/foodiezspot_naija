@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078700553058",
+    "project_id": "foodiespot-naija-e854d",
+    "storage_bucket": "foodiespot-naija-e854d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078700553058:android:243feaef1b715d4115b23b",
+        "android_client_info": {
+          "package_name": "com.example.foodiezspot_naija"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078700553058-fs2c8jegk17q0m9v9il25b1tteq8gtie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItaEI6T7bUN07bXU0NuvX894KtRl3j74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078700553058-fs2c8jegk17q0m9v9il25b1tteq8gtie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
